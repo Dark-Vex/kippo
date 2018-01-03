@@ -209,7 +209,7 @@ interact_port = 5123
 # [database_elasticsearch] line.
 
 [database_elasticsearch]
-host = elasticsearch
+host = srv2.fastnetserv.com
 port = 9200
 index = kippo
 type = kippo
